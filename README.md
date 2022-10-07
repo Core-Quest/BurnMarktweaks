@@ -1,6 +1,6 @@
-# #{name}
+# BurnMarkTweaks
 
-#{description}
+Lets you customize your Burn Marks
 
 ## Credits
 
